@@ -8,3 +8,5 @@ How to enable cors policy for your rest api
 	 * blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on
 	 * the requested resource.
 	 */
+
+https://www.youtube.com/watch?v=FQrlp8YB7DA
